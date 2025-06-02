@@ -30,6 +30,7 @@
     "symfony/yaml": "^5.4|^6.4|^7.0",
     "friendsofphp/php-cs-fixer": "*",
     "symfony/phpunit-bridge": "^5.4|^6.4|^7.0",
+    "symfony/framework-bundle": "^5.4|^6.4|^7.0",
     "phpstan/phpstan": "*",
     "rector/rector": "^2.0",
     "ekino/phpstan-banned-code": "*",
